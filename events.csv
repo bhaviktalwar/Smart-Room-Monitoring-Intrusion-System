@@ -1,0 +1,63 @@
+timestamp,name,action,confidence,image_path
+2025-10-21 10:49:27,bhavik,UNLOCK,0.3478,/home/pi/intruder_logs/access_bhavik_20251021_104927.jpg
+2025-10-21 15:22:50,bhavik,UNLOCK,0.3797,/home/pi/intruder_logs/access_bhavik_20251021_152250.jpg
+2025-10-21 17:26:53,bhavik,UNLOCK,0.4120,/home/pi/intruder_logs/access_bhavik_20251021_172653.jpg
+2025-10-21 17:27:16,bhavik,UNLOCK,0.3638,/home/pi/intruder_logs/access_bhavik_20251021_172716.jpg
+2025-10-21 17:28:16,bhavik,UNLOCK,0.2987,/home/pi/intruder_logs/access_bhavik_20251021_172816.jpg
+2025-10-21 17:30:26,Unknown Intruder,ALERT,0.7093,/home/pi/intruder_logs/intruder_20251021_173026.jpg
+2025-10-21 17:47:09,bhavik,UNLOCK,0.4196,/home/pi/intruder_logs/access_bhavik_20251021_174709.jpg
+2025-10-21 17:47:23,bhavik,UNLOCK,0.3726,/home/pi/intruder_logs/access_bhavik_20251021_174723.jpg
+2025-10-21 17:47:37,bhavik,UNLOCK,0.3441,/home/pi/intruder_logs/access_bhavik_20251021_174737.jpg
+2025-10-21 17:52:10,bhavik,UNLOCK,0.3870,/home/pi/intruder_logs/access_bhavik_20251021_175210.jpg
+2025-10-21 17:52:35,Unknown Intruder,ALERT,0.5608,/home/pi/intruder_logs/intruder_20251021_175235.jpg
+2025-10-21 17:54:07,Unknown Intruder,ALERT,0.6502,/home/pi/intruder_logs/intruder_20251021_175407.jpg
+2025-10-21 17:56:03,bhavik,UNLOCK,0.4924,/home/pi/intruder_logs/access_bhavik_20251021_175603.jpg
+2025-10-21 17:56:08,Unknown Intruder,ALERT,0.6025,/home/pi/intruder_logs/intruder_20251021_175608.jpg
+2025-10-21 17:59:15,Unknown Intruder,ALERT,0.5837,/home/pi/intruder_logs/intruder_20251021_175915.jpg
+2025-10-21 20:04:14,Unknown Intruder,ALERT,0.7180,/home/pi/intruder_logs/intruder_20251021_200414.jpg
+2025-10-21 21:17:19,Unknown Intruder,ALERT,0.7170,/home/pi/intruder_logs/intruder_20251021_211719.jpg
+2025-10-21 21:17:52,Owner,MANUAL_MQTT_UNLOCK,1.0000,N/A
+2025-10-21 21:19:26,bhavik,UNLOCK,0.3801,/home/pi/intruder_logs/access_bhavik_20251021_211926.jpg
+2025-10-21 21:19:50,bhavik,UNLOCK,0.4088,/home/pi/intruder_logs/access_bhavik_20251021_211950.jpg
+2025-10-21 21:20:00,Unknown Intruder,ALERT,0.7120,/home/pi/intruder_logs/intruder_20251021_212000.jpg
+2025-10-21 21:20:19,Owner,MANUAL_MQTT_UNLOCK,1.0000,N/A
+2025-10-21 21:21:27,Unknown Intruder,ALERT,0.6682,/home/pi/intruder_logs/intruder_20251021_212127.jpg
+2025-10-21 21:21:51,Owner,MANUAL_MQTT_UNLOCK,1.0000,N/A
+2025-10-21 21:27:32,bhavik,UNLOCK,0.3576,/home/pi/intruder_logs/access_bhavik_20251021_212732.jpg
+2025-10-21 21:27:54,Unknown Intruder,ALERT,0.7086,/home/pi/intruder_logs/intruder_20251021_212754.jpg
+2025-10-21 21:28:43,Owner,MANUAL_MQTT_UNLOCK,1.0000,N/A
+2025-10-21 21:32:39,bhavik,UNLOCK,0.3429,/home/pi/intruder_logs/access_bhavik_20251021_213239.jpg
+2025-10-21 21:33:10,bhavik,UNLOCK,0.3424,/home/pi/intruder_logs/access_bhavik_20251021_213310.jpg
+2025-10-21 21:33:17,Unknown Intruder,ALERT,0.7603,/home/pi/intruder_logs/intruder_20251021_213317.jpg
+2025-10-21 21:33:30,Unknown Intruder,ALERT,0.7603,https://www.dropbox.com/scl/fi/2m25k90gv0hguj8g9c9u0/intruder_20251021_213317.jpg?rlkey=dt20kia7a9z1bqlo6lc2ggxcq&dl=0
+2025-10-21 21:42:48,Unknown Intruder,ALERT,0.7139,/home/pi/intruder_logs/intruder_20251021_214248.jpg
+2025-10-21 21:43:53,Unknown Intruder,ALERT,0.6343,/home/pi/intruder_logs/intruder_20251021_214353.jpg
+2025-10-21 21:44:21,Owner,MANUAL_MQTT_UNLOCK,1.0000,N/A
+2025-10-22 14:03:00,bhavik,UNLOCK,0.3675,/home/pi/intruder_logs/access_bhavik_20251022_140300.jpg
+2025-10-22 14:03:22,bhavik,UNLOCK,0.3847,/home/pi/intruder_logs/access_bhavik_20251022_140322.jpg
+2025-10-22 14:03:43,bhavik,UNLOCK,0.4277,/home/pi/intruder_logs/access_bhavik_20251022_140343.jpg
+2025-10-22 14:07:39,bhavik,UNLOCK,0.4461,/home/pi/intruder_logs/access_bhavik_20251022_140739.jpg
+2025-10-22 14:31:31,bhavik,UNLOCK,0.4226,/home/pi/intruder_logs/access_bhavik_20251022_143131.jpg
+2025-10-22 14:33:52,bhavik,UNLOCK,0.4873,/home/pi/intruder_logs/access_bhavik_20251022_143352.jpg
+2025-10-22 14:34:22,bhavik,UNLOCK,0.5319,/home/pi/intruder_logs/access_bhavik_20251022_143422.jpg
+2025-10-22 14:35:04,Unknown Intruder,ALERT,0.6755,/home/pi/intruder_logs/intruder_20251022_143504.jpg
+2025-10-22 14:39:28,Unknown Intruder,ALERT,0.6948,/home/pi/intruder_logs/intruder_20251022_143928.jpg
+2025-10-22 14:39:38,Unknown Intruder,ALERT,0.6520,/home/pi/intruder_logs/intruder_20251022_143938.jpg
+2025-10-22 14:42:00,bhavik,UNLOCK,0.3602,/home/pi/intruder_logs/access_bhavik_20251022_144200.jpg
+2025-10-22 14:43:12,bhavik,UNLOCK,0.5038,/home/pi/intruder_logs/access_bhavik_20251022_144312.jpg
+2025-10-22 14:43:28,bhavik,UNLOCK,0.5363,/home/pi/intruder_logs/access_bhavik_20251022_144328.jpg
+2025-10-22 14:43:36,Unknown Intruder,ALERT,0.6841,/home/pi/intruder_logs/intruder_20251022_144336.jpg
+2025-10-22 14:44:45,Unknown Intruder,ALERT,0.7051,/home/pi/intruder_logs/intruder_20251022_144445.jpg
+2025-10-22 14:45:17,Unknown Intruder,ALERT,0.6953,/home/pi/intruder_logs/intruder_20251022_144517.jpg
+2025-10-22 14:45:31,Unknown Intruder,ALERT,0.6447,/home/pi/intruder_logs/intruder_20251022_144531.jpg
+2025-10-22 14:46:06,Unknown Intruder,ALERT,0.7561,/home/pi/intruder_logs/intruder_20251022_144606.jpg
+2025-10-22 14:52:25,Owner,MANUAL_MQTT_UNLOCK,1.0000,N/A
+2025-10-22 14:59:12,Owner,MANUAL_MQTT_UNLOCK,1.0000,N/A
+2025-10-22 15:00:04,Owner,MANUAL_MQTT_UNLOCK,1.0000,N/A
+2025-10-22 15:01:56,Owner,MANUAL_MQTT_UNLOCK,1.0000,N/A
+2025-10-22 18:53:09,bhavik,UNLOCK,0.4108,/home/pi/intruder_logs/access_bhavik_20251022_185309.jpg
+2025-10-22 18:56:57,Unknown Intruder,ALERT,0.6724,/home/pi/intruder_logs/intruder_20251022_185657.jpg
+2025-10-22 18:58:42,Owner,MANUAL_MQTT_UNLOCK,1.0000,N/A
+2025-10-22 19:01:08,Owner,MANUAL_MQTT_UNLOCK,1.0000,N/A
+2025-10-22 19:38:46,bhavik,UNLOCK,0.3760,/home/pi/intruder_logs/access_bhavik_20251022_193846.jpg
+2025-10-22 19:39:30,Owner,MANUAL_MQTT_UNLOCK,1.0000,N/A
