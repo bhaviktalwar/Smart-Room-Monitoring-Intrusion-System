@@ -65,9 +65,8 @@ Smart_Intrusion_System/
 │
 ├── monitor_system.py        # Main AI + IoT + Cloud system
 ├── encode_faces.py          # Face encoding generator
-├── SmartDoorLock_BLE.ino    # Arduino BLE door lock code
-├── training_images/         # Face training images
-├── encodings.pkl            # Generated face encodings
+├── project_arduino.ino      # Arduino BLE door lock code
+├── events.csv               # Generated database file
 └── README.md                # Project documentation
 ```
 
@@ -174,7 +173,7 @@ Upload `SmartDoorLock_BLE.ino` to Arduino Nano 33 BLE
 
 ## 👨‍💻 Developer
 
-Bhavik Talwar
+Bhavik Talwar -
 IoT Developer | AI Enthusiast | Software Engineering Student
 
 ---
